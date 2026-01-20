@@ -16,10 +16,11 @@ I'm a **Computer Science student** constantly building projects and improving my
 <br>
 
 ### Contato profissional
-<div> 
-  <a href="https://www.linkedin.com/in/rodrigolugon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:rodrigolugonn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigolugon/)](https://www.linkedin.com/in/rodrigolugon/) 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigolugonn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigolugonn@gmail.com)](mailto:rodrigolugonn@gmail.com)
+<div> 
+ 
   ![Snake animation](https://github.com/roberto-hofstetter/roberto-hofstetter/blob/output/github-contribution-grid-snake.svg)
 
 </div>
